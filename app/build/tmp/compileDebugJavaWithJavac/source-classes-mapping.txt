@@ -1,0 +1,2 @@
+com/example/intentkharis/BuildConfig.java
+ com.example.intentkharis.BuildConfig
